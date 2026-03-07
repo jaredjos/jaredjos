@@ -1,7 +1,6 @@
 # Jared Joseph
 
-Gaming Product Leader | Principal PM @ Glance (InMobi)  
-Ex-Krafton, Nazara  
+Gaming Product Leader | Principal PM @ Glance (InMobi) | Ex-Krafton, Nazara  
 
 Working on:
 - 3D Brand Stores
