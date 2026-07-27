@@ -28,5 +28,8 @@ Over the past decade I've led product strategy, P&L and growth for mobile and AA
 
 ---
 
+https://github.com/jaredjos/H5-Games
+
+---
 ## Outside work:
 MOBA, RTS and 4X Ethusiast, anime connoisseur, and endlessly curious about the future of games and AI!
